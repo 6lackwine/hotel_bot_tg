@@ -89,9 +89,7 @@
 <li>Перейти в API Marketplace → категория Travel → Hotels</li>
 <li>Нажать кнопку Subscribe to Test.</li>
 <li>Выбрать бесплатный пакет (Basic)</li></ul>
-Вставить полученные токены в файл env.example в переменные BOT_TOKEN и API_TOKEN
-
-Переименовать env.example файл в .env
+Вставить полученные токены в файл .env в переменные BOT_TOKEN и API_TOKEN
 
 Установить виртуальное окружение введя в консоль команду pip install -r requirements.txt
 
